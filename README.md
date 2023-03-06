@@ -1,2 +1,2 @@
 # rocketseat-omnistack-10-backend
-Projeto desenvolvido no curso produzido pela Rocketseat na semana omnistack 10
+Project developed in the course produced by Rocketseat in omnistack week 10
